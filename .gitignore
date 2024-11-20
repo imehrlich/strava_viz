@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 activities/*.gpx
+.gitignore
+.gitattributes
